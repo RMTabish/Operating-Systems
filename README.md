@@ -25,3 +25,14 @@ Instructions:
 - Ensure compatibility with Ubuntu as the demo environment.
 
 
+## Assignment 2
+**File**: `multiplayer_game.cpp`
+
+### Problem Statement:
+You are tasked with implementing a multiplayer game where players move around a two-dimensional grid and collect items. The game must support multiple players concurrently, and each player thread handles its movement and item collection. Use a message-passing system between threads to manage movement and score updates. No mutexes or semaphores are allowed, and thread priority may be set based on player performance.
+
+Instructions:
+- Use C++ and threads to implement the solution.
+- Ensure compatibility with Ubuntu as the demo environment.
+
+---
