@@ -17,7 +17,7 @@ Instructions:
 
 **File**: `bridge_traffic.cpp`
 
-### Problem Statement:
+### Problem Statement 2:
 A small island has a one-lane historic bridge that can hold up to four cars or a combination of one bus and two cars at a time. Two buses cannot be on the bridge at the same time. Implement a mutex synchronization mechanism in a multi-threaded program to control traffic flow and prevent overload on the bridge.
 
 Instructions:
