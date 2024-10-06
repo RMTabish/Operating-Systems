@@ -36,3 +36,32 @@ Instructions:
 - Ensure compatibility with Ubuntu as the demo environment.
 
 ---
+
+## Assignment 3
+
+### Problem 1: Process Creation and Matrix Multiplication
+
+**File**: `matrix_multiplication.cpp`
+
+### Problem Statement:
+Write a program that creates "n" processes based on a randomly generated number and your roll number. Populate an "n x n" matrix and perform matrix multiplication where each process calculates one row. Save the results in text files and display the final matrix.
+
+---
+
+### Problem 2: Chat Program with Shared Memory
+
+**File**: `chat_system`
+
+### Problem Statement:
+Develop a chat program that uses shared memory, fork(), and exec() for communication between clients. Messages will be stored in shared memory, and synchronization issues need to be discussed within the code. You are not allowed to use pipes for communication.
+
+---
+
+### Problem 3: Bash Script for System Administration
+
+**File**: `script.sh`
+
+### Problem Statement:
+Implement a bash script to create a user, list installed applications, install Dropbox, set IP configurations, and display system information. The script should use functions, allow input through command-line switches, and verify configurations upon execution.
+
+---
